@@ -11,4 +11,11 @@ public class SumofCourses {
 		System.out.println("hello");
 	}
 
+
+@Test
+	public void getMinus()
+	{
+		System.out.println("hello");
+	}
+
 }
